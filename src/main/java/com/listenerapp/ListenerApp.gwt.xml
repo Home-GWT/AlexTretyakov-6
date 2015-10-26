@@ -8,5 +8,5 @@
 
     <entry-point class='com.listenerapp.client.ListenerApp'/>
 
-    <set-property name="user.agent" value="safari"/>
+    <!--<set-property name="user.agent" value="safari"/>-->
 </module>
